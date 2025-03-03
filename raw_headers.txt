@@ -1,0 +1,18 @@
+HTTP/3 200 
+content-type: application/json; charset=UTF-8
+vary: Origin
+vary: X-Origin
+vary: Referer
+content-encoding: br
+date: Mon, 03 Mar 2025 02:09:38 GMT
+server: scaffolding on HTTPServer2
+content-length: 2520
+x-xss-protection: 0
+x-frame-options: SAMEORIGIN
+x-content-type-options: nosniff
+set-cookie: SIDCC=AKEyXzUO7Guys2s6F54oPJaMwhKrKfEocMJt8z-5ST_wtMx0Qdh7CMQaQTbpF4zkfykrzxaHtA; expires=Tue, 03-Mar-2026 02:09:38 GMT; path=/; domain=.youtube.com; priority=high
+set-cookie: __Secure-1PSIDCC=AKEyXzUDTXUIBI29NTZNh9ya_wgx6Rfq_j4kNYFdMm2CBa3_dFAdQYOBUz0pueBvs_5RQg119w; expires=Tue, 03-Mar-2026 02:09:38 GMT; path=/; domain=.youtube.com; Secure; HttpOnly; priority=high
+set-cookie: __Secure-3PSIDCC=AKEyXzVxgWHnN_8pHd8cGAUc2Nn9f4cHOmooEm8dN6ZxnLXyrvrLKfAolMiLWzh30kZQ2-kR; expires=Tue, 03-Mar-2026 02:09:38 GMT; path=/; domain=.youtube.com; Secure; HttpOnly; priority=high; SameSite=none
+alt-svc: h3=":443"; ma=2592000,h3-29=":443"; ma=2592000
+expires: Mon, 03 Mar 2025 02:09:38 GMT
+cache-control: private
